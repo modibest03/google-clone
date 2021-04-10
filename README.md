@@ -1,1 +1,1 @@
-link to the clone    google-landing-page-clone.surge.sh
+link to the clone [https://google-landing-page-clone.surge.sh/]
